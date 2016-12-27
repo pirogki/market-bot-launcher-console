@@ -1,0 +1,12 @@
+[
+  {
+    "url" : "http://localhost/botLauncherTest/index.php?x=1",
+    "pause" : "10",
+    "enabled" : "true"
+  },
+  {
+    "url" : "http://localhost/botLauncherTest/index.php?x=2",
+    "pause" : "10",
+    "enabled" : "true"
+  }
+]
